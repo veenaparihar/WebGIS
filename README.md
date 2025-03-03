@@ -81,5 +81,5 @@ Feel free to fork the repository, submit pull requests, or open issues!
 
 Author
 
-👨‍💻 Developed by Your Name
+👨‍💻 Developed by Dr. Veena Parihar
 
