@@ -1,2 +1,2 @@
 # WebGIS
-A WebGIS project using geoserver and leaflet
+A WebGIS project using geoserver and leaflet. 
